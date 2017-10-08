@@ -6,8 +6,15 @@ my
 hello
 sdfaksdsdjla
 asdasd
+<<<<<<< Updated upstream
 everyone hase
  是老地方sd
  sdjlw
  水电费
  
+=======
+sdldlw
+jdlwds
+sadjlw
+sdfjalwo
+>>>>>>> Stashed changes
