@@ -9,4 +9,9 @@ everyone hase
 jdlwds
 sadjlw
 sdfjalwo
+<<<<<<< Updated upstream
 hello
+=======
+i want to go home
+give me more
+>>>>>>> Stashed changes
